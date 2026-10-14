@@ -67,4 +67,4 @@ Os dados são públicos e foram importados diretamente dos repositórios acima p
 
 **Milena Mota**
 Brasília - DF
-[LinkedIn](#https://www.linkedin.com/in/milena-mota1/) · [GitHub](#https://github.com/eummilena) · milenabmota@gmail.com
+[LinkedIn](https://www.linkedin.com/in/milena-mota1/) · [GitHub](https://github.com/eummilena) · milenabmota@gmail.com
