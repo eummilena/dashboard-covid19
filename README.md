@@ -42,7 +42,7 @@ Os dados são públicos e foram importados diretamente dos repositórios acima p
 
 ## ▶️ Como visualizar
 
-1. Baixe o arquivo [`nome-do-arquivo.pbix`](./nome-do-arquivo.pbix) deste repositório.
+1. Baixe o arquivo [`Covid-19.pbix`](./Covid-19.pbix) deste repositório.
 2. Abra no **Power BI Desktop** (gratuito para Windows).
 3. Se necessário, clique em **Atualizar** para carregar os dados mais recentes das fontes.
 
@@ -53,7 +53,7 @@ Os dados são públicos e foram importados diretamente dos repositórios acima p
 ```
 ├── Covid-19.pbix
 ├── docs/
-│   └── dashboard-preview.png
+│   └── dashboard-preview1.png
 └── README.md
 ```
 
@@ -67,4 +67,4 @@ Os dados são públicos e foram importados diretamente dos repositórios acima p
 
 **Milena Mota**
 Brasília - DF
-[LinkedIn](#) · [GitHub](#) · milenabmota@gmail.com
+[LinkedIn](#https://www.linkedin.com/in/milena-mota1/) · [GitHub](#https://github.com/eummilena) · milenabmota@gmail.com
