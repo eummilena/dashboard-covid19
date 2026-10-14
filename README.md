@@ -1,6 +1,6 @@
 # 🦠 Análise da COVID-19 no Brasil com Power BI
 
-Dashboard interativo em Power BI para acompanhar a evolução da COVID-19 no Brasil, com indicadores de casos, óbitos, letalidade, testes e vacinação. Projeto final de conclusão do curso **[Análise e Desenvolvimento de Sistemas]** – [Projeção].
+Dashboard interativo em Power BI para acompanhar a evolução da COVID-19 no Brasil, com indicadores de casos, óbitos, letalidade, testes e vacinação. Projeto final de conclusão do curso **Análise e Desenvolvimento de Sistemas** – Projeção.
 
 ![Prévia do dashboard](docs/dashboard-preview1.png)
 ![Prévia do dashboard](docs/dashboard-preview2.png)
